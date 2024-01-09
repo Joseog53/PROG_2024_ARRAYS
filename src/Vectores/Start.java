@@ -13,7 +13,7 @@ public class Start {
 		
 		for(int i=0;i<frase.length;i++) {
 			
-			//System.out.println("pos "+i+" = "+frase[i]);
+			
 			
 			System.out.print(frase[i]);
 		}
