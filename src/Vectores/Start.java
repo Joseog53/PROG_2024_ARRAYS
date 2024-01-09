@@ -19,7 +19,7 @@ public class Start {
 		}
 		
 
-		System.out.println(" ");
+	
 		
 		for(int i=frase.length-1;i>=0;i--) {
 				
