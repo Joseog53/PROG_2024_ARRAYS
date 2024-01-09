@@ -9,17 +9,7 @@ public class Start {
 
 		char frase[] = new char[10];
 		
-		frase[0]='H';
-		frase[1]='O';
-		frase[2]='L';
-		frase[3]='A';
-		frase[4]=' ';
-		frase[5]='H';
-		frase[6]='O';
-		frase[7]='L';
-		frase[8]='A';           
-		frase[9]='!';                  
-		
+	
 		
 		for(int i=0;i<frase.length;i++) {
 			
